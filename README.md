@@ -6,3 +6,7 @@
 😎 Do you want to chat with your long PDF docs? And do you know that there are at least 4 ways to do question answering in LangChain? 
 
 [LangChain QA video](https://www.youtube.com/watch?v=DXmiJKrQIvg)
+
+2023-07-02 rhm2k: Minor modifications
+- explicitly added some dependencies
+- implemented the use of .env file to store private data (e.g. API keys)
